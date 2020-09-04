@@ -55,7 +55,22 @@ https://www.walmart.com/ip/Oral-B-3D-White-Electric-Toothbrush-Battery-Power-Var
 </ol>
 
 ```markdown
-To take the next step in achieving your new smile, I am going to direct you to some of the local businesses in town.
+To take the next step in achieving your new smile, I am going to direct you to some of the local businesses in town:
 
-1. 
+1. Scott A. Dunaway
+  - 4036 Quarles Ct, Harrisonburg, VA 22801
+  
+2. Angelopulod Dental
+  - 1705 S High St, Harrisonburg, VA 22801
+  
+3. Harrisonburg Family and Cosmetic Dentistry
+  - 1451 Brookhaven Dr, Harrisonburg, VA 22801
+  
+4. Friendly City Dental
+  - 2262 Blue Stone Hills Dr A, Harrisonburg, VA 22801
+  
+5. Brown & Sutt
+  - 2015 Reservoir St, Harrisonburg, VA 22801
+ 
+ Be sure to check out these great local dental offices. Itll be worth your time and money!
 ```
