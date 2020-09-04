@@ -74,3 +74,4 @@ To take the next step in achieving your new smile, I am going to direct you to s
  
  Be sure to check out these great local dental offices. Itll be worth your time and money!
 ```
+![istockphoto-687663798-612x612](https://user-images.githubusercontent.com/70115453/92199173-05bde180-ee3c-11ea-94c2-73f779b2b796.jpg)
