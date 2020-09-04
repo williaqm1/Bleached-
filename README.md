@@ -5,10 +5,10 @@
 
 ## 
 
-The iconic Chip Skylark from the Nickeloden Show "Fairly Odd Parents" has always been knwon to woe the ladies with not only his good looks but mainly his smile.
-Im here to tell you the steps to achiveing a smile like Mr.Skylarks
+The iconic Chip Skylark from the Nickeloden show "Fairly Odd Parents" has always been known to wooo the ladies with not only his good looks but with his sparkling smile.
+Im here to tell you the steps to achiveing a smile like Mr. Skylark's.
 
-## A brief intro to teeth whitening here in Harrisonburg, Va
+## A brief intro to teeth whitening here in Harrisonburg, VA
 ______________________________________________________________ 
 
 Teeth whitening is a wonderful way of obtaining a killer smile and kick butt confidence. You will indeed enjoy the non invasive 
@@ -42,10 +42,20 @@ You could start:
 
 <li> Try stimulating a lot of saliva, this is a natural cleaner for your mouth!</li> 
 
-<li> Eat your fruits and veggies. I mean weve all heard it since we were children but youll be surprised how many people dont eat their veggies and fruits. I know yall have heard, "An apple a day keeps the doctor away."</li> 
+<li> Eat your fruits and veggies. I mean weve all heard it since we were children but youll be surprised how many people dont eat their veggies and fruits. I know yall have heard,
+As every Grandma said:
+
+> An apple a day
+> will keep the doctors away.</li> 
 
 <li> You could also invest in an eletric toothbrush, it doesnt have to be hundred of dollars. I have one from walmart that was only around eight dollars
 and it works wonders and really gets the job done alright. I can add the link below: </li> 
 
 https://www.walmart.com/ip/Oral-B-3D-White-Electric-Toothbrush-Battery-Power-Various-Colors/10321283
 </ol>
+
+```markdown
+To take the next step in achieving your new smile, I am going to direct you to some of the local businesses in town.
+
+1. 
+```
